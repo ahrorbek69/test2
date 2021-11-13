@@ -1,0 +1,4 @@
+git init
+//.git papka yaratish uchun//
+git add . or git add papkanomi
+// fayillarni ulash//
